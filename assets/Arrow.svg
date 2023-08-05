@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="50px" viewBox="0 0 200 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Arrow" sketch:type="MSArtboardGroup" fill="#4990E2">
+            <path d="M-4.69953463e-07,-0.3359375 C-4.69953463e-07,-0.3359375 45.8042103,45.4682727 106.20957,44.3847201 C135.353058,43.8619435 167.895296,32.4249742 200.332031,-0.3359375 C200.332031,-0.3359375 153.519532,39.4824219 106.759766,39.4824219 C59.9999995,39.4824219 -4.69953463e-07,-0.3359375 -4.69953463e-07,-0.3359375 Z" id="tail" sketch:type="MSShapeGroup"></path>
+            <path d="M192.094021,-3.47824501 L182.063747,16.377712 L192.171169,11.5534933 L202.203396,16.6789816 L192.094021,-3.47824501 Z" id="head" sketch:type="MSShapeGroup" transform="translate(192.133571, 6.600368) rotate(-310.000000) translate(-192.133571, -6.600368) "></path>
+        </g>
+    </g>
+</svg>

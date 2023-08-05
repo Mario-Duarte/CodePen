@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="468px" height="276px" viewBox="0 0 468 276" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>base</title>
+    <defs>
+        <radialGradient cx="50%" cy="-183.638932%" fx="50%" fy="-183.638932%" r="290.902564%" gradientTransform="translate(0.500000,-1.836389),scale(0.226889,1.000000),rotate(90.000000),translate(-0.500000,1.836389)" id="radialGradient-1">
+            <stop stop-color="#74B9FF" offset="0%"></stop>
+            <stop stop-color="#0260A9" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-167.000000, -375.000000)">
+            <g id="base" transform="translate(167.000000, 375.272838)">
+                <rect id="Rectangle" fill="#0260A9" x="0" y="266.727162" width="468" height="8" rx="4"></rect>
+                <path d="M90.6615232,177 C130.148213,200.151441 178.094372,211.727162 234.5,211.727162 C290.905628,211.727162 339.841162,200.151441 381.306602,177 L432,266.727162 L36.5325192,266.727162 L90.6615232,177 Z" id="Rectangle" fill="url(#radialGradient-1)"></path>
+                <path d="M389.512529,212.727162 C389.512529,212.727162 398.362401,228.581782 416.062143,260.291024 L272,260.291024 C325.078541,251.295465 364.249384,235.440844 389.512529,212.727162 Z" id="Path" fill-opacity="0.1" fill="#FFFFFF"></path>
+                <path d="M387.599135,202.70194 L422.226002,263.624074 L412.454819,263.624074 L381.096798,206.727162 C382.416858,206.081514 383.561441,205.458732 384.530547,204.858815 C385.499652,204.258897 386.522515,203.539939 387.599135,202.70194 Z" id="Path-2" fill-opacity="0.5" fill="#FFFFFF"></path>
+                <rect id="Rectangle" fill="#0260A9" x="224" y="10.7271618" width="20" height="202"></rect>
+                <polygon id="Rectangle" fill="#0260A9" transform="translate(168.623248, 95.268195) rotate(45.000000) translate(-168.623248, -95.268195) " points="148.000987 -3.66861957 162.143123 -17.8107552 189.245509 203.495957 171.235006 208.347145"></polygon>
+                <polygon id="Rectangle" fill="#0260A9" transform="translate(300.690580, 95.613113) scale(-1, 1) rotate(45.000000) translate(-300.690580, -95.613113) " points="280.253098 -4.64975275 294.395233 -18.7918884 321.128062 203.671938 310.433823 207.702284 301.384017 210.018115"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

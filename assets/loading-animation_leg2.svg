@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="37px" viewBox="0 0 68 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path 10</title>
+    <defs>
+        <linearGradient x1="3.22060752%" y1="36.2295243%" x2="133.110494%" y2="67.9988238%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#BBBAB8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-477.000000, -456.000000)" fill="url(#linearGradient-1)">
+            <g id="Group" transform="translate(214.112062, 311.262579)">
+                <path d="M286.553819,179.672723 C313.400331,183.798157 328.173548,180.653056 330.87347,170.237421 C326.350831,164.85818 321.261014,160.135231 315.604019,156.068574 C304.137209,148.514472 295.648832,144.737421 290.138888,144.737421 C281.873973,144.737421 264.954855,153.174923 263.072124,160.124595 C261.81697,164.75771 269.644202,171.273752 286.553819,179.672723 Z" id="Path-10"></path>
+            </g>
+        </g>
+    </g>
+</svg>

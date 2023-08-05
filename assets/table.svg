@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="300px" viewBox="0 0 1024 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>table</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="table" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="Oval" fill="#DDDDDD" cx="512" cy="150.5" rx="550" ry="150.5"></ellipse>
+        <ellipse id="Oval" fill="#EEEEEE" cx="512" cy="170.5" rx="550" ry="150.5"></ellipse>
+        <rect id="Rectangle" fill="#EEEEEE" x="0" y="133" width="1024" height="188"></rect>
+    </g>
+</svg>
